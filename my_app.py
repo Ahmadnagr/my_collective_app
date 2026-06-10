@@ -2,7 +2,7 @@ from flask import Flask, render_template_string
 
 app = Flask(__name__)
 
-# هنا بنحط بيانات مشاريعك وشغلك اللي عاوزه يظهر على الموقع
+هنا بنحط بيانات مشاريعك وشغلك اللي عاوزه يظهر على الموقع
 PROJECTS = [
     {
         "title": "Project Sovereign Engine",
